@@ -33,4 +33,46 @@ body {
   position: relative;
   width: 450px;
   padding: 40px 50px;
+  border-radius: 10px;
+}
+
+.quote-text {
+  height: auto;
+  font-weight: 500;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.icon-link {
+  padding: 0 12px;
+}
+
+.quote-author {
+  text-align: right;
+  padding: 10px;
+  font-size: large;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: darkolivegreen;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 8px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.button:hover,
+.xButton:hover {
+  color: blue;
 }

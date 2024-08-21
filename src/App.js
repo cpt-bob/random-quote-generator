@@ -14,22 +14,27 @@ function App() {
         <div id="wrapper" className="App-container">
           <div id="quote-box" className="quote-box">
             <div class="quote-text">
-              <FontAwesomeIcon icon={faQuoteLeft} />
+              <FontAwesomeIcon className="icon-link" icon={faQuoteLeft} />
               <span id="text">Well done is better than well said</span>
-              <FontAwesomeIcon icon={faQuoteRight} />
+              <FontAwesomeIcon className="icon-link" icon={faQuoteRight} />
             </div>
             <div class="quote-author">
               <span id="author">- Benjamin Franklin</span>
             </div>
             <div className="buttons">
-              <div className="share-button">
-                <a class="button" href="https://twitter.com/intent/tweet">
-                  <FontAwesomeIcon icon={faSquareXTwitter} />
+              <div id="tweet-quote" className="share-button">
+                <a href="https://twitter.com/intent/tweet">
+                  <FontAwesomeIcon
+                    className="xButton"
+                    icon={faSquareXTwitter}
+                    size="2x"
+                    color="black"
+                  />
                 </a>
-                <button class="button" id="new-quote">
-                  New quote
-                </button>
               </div>
+              <button className="button" id="new-quote">
+                New Quote
+              </button>
             </div>
           </div>
         </div>
