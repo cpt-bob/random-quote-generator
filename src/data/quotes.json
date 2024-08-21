@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "quote": "Always stand on principle...even if you stand alone.",
+    "author": "John Adams(possibly)"
+  },
+  {
+    "id": 2,
+    "quote": "If you want something you've never had, you must be willing to do something you've never done.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 3,
+    "quote": "Well done is better that well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 4,
+    "quote": "The circulation of confidence is better than the circulation of money.",
+    "author": "James Madison"
+  },
+  {
+    "id": 5,
+    "quote": "It is better to offer no excuse than a bad one.",
+    "author": "George Washington"
+  },
+  {
+    "id": 6,
+    "quote": "To succeed, jump as quickly at opportunities as you do at conclusions.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 7,
+    "quote": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 8,
+    "quote": "Dost thou love life? Then do not squander time, for that is the stuff life is made of.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 9,
+    "quote": "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 10,
+    "quote": "Ambition must be made to conteract ambition.",
+    "author": "James Madison"
+  },
+  {
+    "id": 11,
+    "quote": "Without continual growth and progress, such words as improvement, achievment, and success have no meaning.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 12,
+    "quote": "Whenever you do something, act as if all the world were watching.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "id": 13,
+    "quote": "The advancement and diffusion of knowledge is the only guardian of true liberty.",
+    "author": "James Madison"
+  },
+  {
+    "id": 14,
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 15,
+    "quote": "The people are the only ligitimate fountain of power.",
+    "author": "James Madison"
+  },
+  {
+    "id": 16,
+    "quote": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 17,
+    "quote": "Truth will ultimately prevail where there is pains to bring it to light.",
+    "author": "George Washington"
+  },
+  {
+    "id": 18,
+    "quote": "Never leave that till tomorrow which you can do today.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 19,
+    "quote": "Real firmness is good for anything; strut is good for nothing.",
+    "author": "Alexander Hamilton"
+  },
+  {
+    "id": 20,
+    "quote": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin"
+  }
+]

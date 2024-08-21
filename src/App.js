@@ -3,6 +3,7 @@ import "./App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSquareXTwitter } from "@fortawesome/free-brands-svg-icons";
 import { faQuoteLeft, faQuoteRight } from "@fortawesome/free-solid-svg-icons";
+import quotesData from "./data/quotes.json";
 
 function App() {
   return (
